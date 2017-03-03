@@ -1,3 +1,3 @@
 # kaizen
 
-From the Japanese word Kaizen meaning continious improvement
+From the Japanese word Kaizen meaning continuous improvement
