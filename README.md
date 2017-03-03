@@ -12,3 +12,7 @@ From the Japanese word Kaizen meaning continuous improvement
 8. great its starts and does nothing - ok.
 9. created branch and edited README.md
 10. merged the branch changes back to master origin.
+11.  Added application.yml - changed the contextPath - url
+      server:
+    'contextPath': '/kyorugi'
+12. grails start-app
