@@ -21,3 +21,4 @@ From the Japanese word Kaizen meaning continuous improvement
 15. generate-all Dojang
 16. start-app 
 17. manually exercise the CRUD. - it works.
+18. added org.grails.grails-doc, poi to gradle.properties, gdoc files under src/docs
