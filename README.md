@@ -20,4 +20,4 @@ From the Japanese word Kaizen meaning continuous improvement
 14. create Dojang domain class
 15. generate-all Dojang
 16. start-app 
-17. manually excerside the CRUD. - it works.
+17. manually exercise the CRUD. - it works.
