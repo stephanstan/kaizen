@@ -16,3 +16,8 @@ From the Japanese word Kaizen meaning continuous improvement
       server:
     'contextPath': '/kyorugi'
 12. grails start-app
+13. stop-app
+14. create Dojang domain class
+15. generate-all Dojang
+16. start-app 
+17. manually excerside the CRUD. - it works.
